@@ -1,5 +1,7 @@
 # consensus-vm-rs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20181944.svg)](https://doi.org/10.5281/zenodo.20181944)
+
 A virtual machine whose instruction dispatch loop is a nonlinear consensus update on a temporal hypergraph.
 
 **Dan Baker** — Independent Research, Bogotá, Colombia
@@ -44,7 +46,7 @@ cargo run --release
 
 ## Paper
 
-Baker, D. (2026). Consensus-VM: A Virtual Machine as Nonlinear Consensus Dynamics on a Temporal Hypergraph. Zenodo. *(forthcoming)*
+Baker, D. (2026). Consensus-VM: A Virtual Machine as Nonlinear Consensus Dynamics on a Temporal Hypergraph. Zenodo. https://doi.org/10.5281/zenodo.20181944
 
 ## Related
 
